@@ -1,0 +1,9 @@
+Happy Dussehra all of you.......2024 .
+Special wishes by me ....which is created using C++.
+By Importing vector and String .
+Vectors in C++ are sequence containers representing arrays that can change their size during runtime.
+As we've mentioned, strings in C++ and general programming are used to store text & characters.
+
+                                                                Thank u .............
+                                                                Continue.............
+                                                                Coding journey.......
